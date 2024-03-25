@@ -1,0 +1,41 @@
+Projekt "Inventarisierung"
+
+Aufgabenstellung vom 28.11.2023
+(Start: 28.11.2023 / Ende: 18.01.2024 / Abgabe & Präsentation: 18.01.2024)
+
+Anforderung:
+- Gehe gemeinsam mit dem "Kunden" (unserem Dozenten) die Anforderungsanalyse durch. (Der Dozent hat uns Interaktiv durchgeführt.)
+
+Lastenheft (Was will der Kunde/Auftraggeber? Wird vom KD/AG verfasst und ist nicht Rechtlich bindend.)
+
+Pflichtenheft (Wird gemeinsam vom Auftraggeber & Auftragnehmer verfasst und ist Rechtlich bindend. Einträge wie Budget etc.)
+
+Näheres zu der Firma:
+- Mittelstand
+- 30 Angestellte
+- Systemhaus (EDV)
+
+Ist-Zustand: (Hier den Kunden über den aktuellen Zustand befragen. Was wird genutzt? Wer hat Zugriff? ggfl. Pläne der aktuellen Lösung zeigen lassen)
+- Exceltabellen
+- Der Firmeneigentüber allein hat Zugriff
+- Exceltabellen gesichtet
+
+Soll-Zustand: (Hier gemeinsam mit dem Kunden den gewünschten Zustand zusammentragen. Was soll erfasst werden? Welche Technik wird genutzt? (z.B. aus irgendeinem Grund muss alles auf Disketten), Wie soll die Anwendung genutzt werden? (z.B. Muss aus dem Internet erreichbar sein / nur Lokal), Was ist die Schnittstelle zwischen User und Anwendung? (Smartphone, Scanner, Wandterminal etc.)
+- 5 Werte über EDV-Geräte soll erfasst werden
+- Webanwendung mit Datenbank
+- Desktop oder Smartphone
+
+Konkrete Aufgabenstellung:
+- Bilde eine Gruppe aus 4 Personen
+- Die Anwendung soll die Desktop- (16:9) oder Smartphoneansicht unterstützen, entscheidet innerhalb der Gruppe
+- erstellt ein Mockup/Skitze der Ansicht
+- Zu nutzende Technologien: HTML, CSS, PHP, SQL.
+- Es soll möglich sein Geräte anzulegen, zu bearbeiten, zu löschen und anzuzeigen evtl. mit Suchfunktion
+- Haltet einen 10 Min. Vortrag und Präsentiert euer Projekt
+
+Ablauf nach Wasserfallmodell:
+- Analysephase
+- Entwurfsphase
+- Implementierungsphase
+- Testphase
+- Auslieferung 
