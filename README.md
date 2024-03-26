@@ -16,10 +16,13 @@ Datenbank & Funktion der Webseite
 Design der Webseite & Mobile Layout
  
 # 🧰 Programmiersprache/n:
-- `HTML`
-- `CSS`
-- `PHP`
-- `MySQL`
+- `HTML` <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+- `CSS` <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+- `PHP` <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+
+- `MySQL`<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 # ✨ Features
 - **Hauptmenü:**
@@ -29,3 +32,6 @@ Design der Webseite & Mobile Layout
 # 📚 Was ich dazugelernt habe
 
 # 💡 Verbesserungsideen
+- Die Desktopansicht fertigstellen und sicher gehen, dass die Webseite auch in verschiedenen größen wie Mobile, Tablett, Desktop usw. aber auch im Portrait- und Landscapemodus gut angezeigt wird.
+- Die Webseite mit einem Login "sichern" und es ermöglichen, dass verschiedene Benutzer darin arbeiten können.
+- Rechte hinzufügen wie z.B. Vollzugriff / Ansicht & Suche ohne Rechte zum anlegen oder bearbeiten.
