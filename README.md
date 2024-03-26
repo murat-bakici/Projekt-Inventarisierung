@@ -26,6 +26,10 @@ Design der Webseite & Mobile Layout
 
 # ✨ Features
 - **Hauptmenü:**
+- **Anzeige:**
+- **Bearbeiten:**
+- **Löschen:**
+- **Suchen:**
 
 # 🔄 Ablauf
 Info: Den genauen Ablauf wann wir was in welcher Reihenfolge erstellt haben kürze ich bzw. lasse ich ganz weg, da der Text jetzt schon enorme Ausmaße angenommen hat.
