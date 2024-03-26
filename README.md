@@ -8,11 +8,11 @@
 # 👨‍💻 Gruppenmitglieder & Aufgabenverteilung
 - <b>Ronny Rosenau</b>
 Mockup und Präsi
-- <b>Nico Zapke</b>
+- [Nico Zapke](https://github.com/nzapke)
 Desktop Layout
-- <b>Olaf Schüttke</b>
+- [Olaf Schüttke](https://github.com/S2pid030)
 Datenbank & Funktion der Webseite
-- <b>Murat Bakici</b>
+- [Murat Bakici](https://github.com/murat-bakici)
 Design der Webseite & Mobile Layout
  
 # 🧰 Programmiersprache/n:
