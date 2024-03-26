@@ -1,0 +1,202 @@
+@media screen and (max-width: 900px) {
+
+    /*####### Global für Mobile #######*/
+    body{
+        font-size: 110%;
+    }
+
+    h1{
+        font-size:34px;
+    }
+
+        /*Felder größe und Border Formatieren*/
+    .textFeld-size{
+        height: 19px;
+        max-width: 168px;
+        min-width: 168px;
+        background-color: #fff;
+        border-bottom: 2px solid #000;
+        border-right: 2px solid #000;
+        border-top: 2px solid #555;
+        border-left: 2px solid #666;
+    }
+        /*andere größe, da in unterschiedlichen Dateien unterschiedliche größen sind*/
+    .textFeld-size2{
+        height: 21px;
+        max-width: 172px;
+        min-width: 172px;
+        background-color: #fff;
+        border-bottom: 2px solid #000;
+        border-right: 2px solid #000;
+        border-top: 2px solid #555;
+        border-left: 2px solid #666;
+    }
+        /*andere größe, da in unterschiedlichen Dateien unterschiedliche größen sind*/
+    .textFeld-size3{
+        height: 25px;
+        max-width: 176px;
+        min-width: 176px;
+        background-color: #fff;
+        border-bottom: 2px solid #000;
+        border-right: 2px solid #000;
+        border-top: 2px solid #555;
+        border-left: 2px solid #666;
+    }
+    /*andere größe, da in unterschiedlichen Dateien unterschiedliche größen sind*/
+    select{
+        height: 25px;
+        min-width: 176px;
+        max-width: 176px;
+        background-color: #fff;
+        border-bottom: 2px solid #000;
+        border-right: 2px solid #000;
+        border-top: 2px solid #555;
+        border-left: 2px solid #666;
+    }
+    /*andere größe, da in unterschiedlichen Dateien unterschiedliche größen sind*/
+    .datum{
+        height: 21px;
+        min-width: 171px;
+        max-width: 171px;
+        background-color: #fff;
+        border-bottom: 2px solid #000;
+        border-right: 2px solid #000;
+        border-top: 2px solid #555;
+        border-left: 2px solid #666;
+
+    }
+        /*Felderabstand in Reihe*/
+    #katTyp, #manufactur, #katwahl, #build{
+        margin-left: 15px;
+    }
+    #pdatum{
+        margin-left: 8px;
+    }
+    #modell{
+        margin-left: 41px;
+    }
+    #snr{
+        margin-left: 24px;
+    }
+    #location{
+        margin-left: 23px;
+    }
+    #kdatum{
+        margin-left: 4px;
+    }
+        /*Abstand zum nächsten feld*/
+    .text_field{
+        margin-bottom: 16px;
+    }
+    .text_fieldTop{
+        margin-top: 16px;
+    }
+
+
+
+    /*####### menu.php #######*/
+    .desktop{
+        display: none;
+    }
+
+
+
+    /*####### view.php #######*/
+        /*Inventurliste*/
+    #spaltenName-Hersteller{
+        display: inline-block;
+        min-width: 80px;
+        max-width: 80px;
+        margin-left: 37px;
+    }
+    #spaltenName-Modell{
+        display: inline-block;
+        margin-left: 40px;
+    }
+
+    #spaltenInhalt-Hersteller{
+        display: inline-block;
+        min-width: 80px;
+        max-width: 80px;
+    }
+    #spaltenInhalt-Modell{
+        display: inline-block;
+        margin-left: 40px;
+    }
+        /*Orientierung der Liste*/
+    .view-list{
+        padding: 0;
+        display: inline;
+    }
+    .view_field{
+        margin-bottom: 5px;
+        margin-left: 10px;
+    }
+        /*Style und Formatierung der Kategorie*/
+    .kat-style{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 120%;
+        background-image: linear-gradient(to right, dimgray 75%, gray 90%)
+    }
+
+
+
+    /*####### view.php + delete.php #######*/
+        /*Formatierung des Containers*/
+    .list-container {
+        display: inline-flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+        /*Formatierung der Zeilen*/
+    .list-item {
+        text-align: left;
+        margin: 1px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+
+
+    /*####### footer.php #######*/
+        /*Eltern Container - Styling des Footers*/
+    .footer{
+        background-color: gray;
+        height: 150px;
+        padding-top: 10px;
+        float: center;
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        display: inline-flex;
+    }
+        /*Katzenlogo*/
+   .logo{
+        float: left;
+        padding-top: 5px;
+        padding-left: 15px;
+        height: 180px;
+    }
+        /*Textblock neben Katzenlogo*/
+    .footer2{
+        grid-column: auto;
+        flex:1;
+        float: center;
+        margin-left: 10px;
+    }
+        /*Inventur by ...*/
+    #projekt{
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+        /*Programmierer-Namen*/
+    .coder{
+        font-style: italic;
+        margin-bottom: 5px;
+    }
+
+}
