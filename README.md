@@ -9,7 +9,7 @@
 - <b>Ronny Rosenau</b>
 Mockup und Präsi
 - [Nico Zapke](https://github.com/nzapke)
-Desktop Layout
+Desktop & Mobile Layout
 - [Olaf Schüttke](https://github.com/S2pid030)
 Datenbank & Funktion der Webseite
 - [Murat Bakici](https://github.com/murat-bakici)
