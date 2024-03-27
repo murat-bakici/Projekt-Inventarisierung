@@ -32,14 +32,17 @@ Design der Webseite & Mobile Layout
 - **Suchen:**
 
 # 🔄 Ablauf
-Info: Den genauen Ablauf wann wir was in welcher Reihenfolge erstellt haben kürze ich bzw. lasse ich ganz weg, da der Text jetzt schon enorme Ausmaße angenommen hat.
+### **Info:**<br> 
+Den genauen Ablauf wann wir was in welcher Reihenfolge erstellt haben kürze ich bzw. lasse ich ganz weg, da der Text jetzt schon enorme Ausmaße angenommen hat.
 
+### **Projekteinführung:**<br>
 Zu beginn hat unser Dozent uns Interaktiv eine Einleitung in das Thema Projektmanagement gegeben.
 Als erstes wurde das Lastenheft durchgesprochen. Nachdem wir vermittelt bekommen haben was das Lastenheft ist und wozu es dient hat der "Kunde", unser Dozent, sein Lastenheft vorgestellt.
 Daraufhin haben wir das Pflichtenheft erklärt bekommen und diesen gemeinsam mit dem "Kunden" erstellt.
 Nachdem alles nötige bereitstand und die Konkrete Aufgabe für unser Projekt verteilt wurde, hat unser Dozent uns das Wasserfallmodell noch erklärt.
 Die Gruppen haben sich gefunden und das Projekt wurde eröffnet.
 
+### **Durchführung:**<br>
 Wir, die "NiRo_MOBS" (NIco-ROnny_Murat-Olaf-Bakici-Schüttke) Gruppe, hat sich zusammengesetzt, sich für die Mobileansicht entschieden und den groben Ablauf besprochen. Unser vorläufiges Mockup wurde erstellt und die Aufgaben verteilt.
 Olaf hat sich direkt mit dem Aufbau der Website beschäftigt während wir noch über das Layout und Mockup gesprochen haben.
 Nach ca. 20 Min war Olaf grob mit dem ersten Abschnitt fertig, sodass Nico und ich mit der Mobilenansicht anfangen konnten. Ronny hat die Skizze und unsere Ideen mithilfe von PowerPoint veredelt.
@@ -51,12 +54,14 @@ Ohne die Speicherkonflikte konnten wir richtig Gasgeben und unsere To-Do Liste i
 
 Nach einiger Zeit hat Ronny uns verlassen, da er aus privaten Gründen die Ausbildung abgebrochen hat. Leider bin ich zwischendurch 2 Blöcke aus Krankheitsgründen ausgefallen und Nico hatte zu beginn andere wichtige schulische Termine in unseren Programmierblöcken und musste sich etwas zurück ziehen.
 
-Ich habe mich für ein schlichtes Design entschieden da zu bunt oder animiert die Benutzer ablenken könnte bzw. wenn man den ganzen Tag damit arbeiten würde einfach zu viel Energie verschwenden und die Aufmerksamkeit darunter leiden könnte.
-Die graue Hintergrundfarbe ist optimal um die Augen bei langen Sitzungen nicht zusätzlich zu belasten, die rote bzw. gelbe Textfarbe, die in bestimmten Situationen angezeigt wird soll darauf hinweisen, dass erhöhte Aufmerksamkeit gefordert ist.
-
 Wir haben nach ca. 2/3 der Zeit alle Projektaufgaben inkl. der Zusatzaufgabe "Suchfeld" erfüllt und haben damit begonnen die Desktopansicht und ein Logo zu erstellen. Ich habe mich um den letzten feinschliff für die Mobileansicht gekümmert, Olaf hat unser Logo erstellt und Nico hat mit der Desktopansicht angefangen die leider vor abgabe nicht fertig war.
 
 Die Präsentation von Olaf und mir lief reibungslos und wir haben die volle Punktzahl erhalten.
+
+### **Design & Farbe:**<br>
+Ich habe mich für ein schlichtes Design entschieden da zu bunt oder animiert die Benutzer ablenken könnte bzw. wenn man den ganzen Tag damit arbeiten würde einfach zu viel Energie verschwenden und die Aufmerksamkeit darunter leiden könnte.
+Die graue Hintergrundfarbe ist optimal um die Augen bei langen Sitzungen nicht zusätzlich zu belasten, die rote bzw. gelbe Textfarbe, die in bestimmten Situationen angezeigt wird soll darauf hinweisen, dass erhöhte Aufmerksamkeit gefordert ist.
+
 
 # 📚 Was ich dazugelernt habe
 - Wie kompliziert es ist mit mehreren Personen (ohne ein Versionierungssystem wie Git) zusammenzuarbeiten ohne Speicherkonflikte auszulösen.
