@@ -3,7 +3,7 @@
  
 <br>Dieses Projekt diente dazu uns an das Thema Projektmanagement heranzuführen, die Gruppendynamik und Problemlösung zu stärken sowie ein Verständnis dafür aufzubauen wie man die 4 Technologien kombinieren kann.
 
-<br>Da wir die Aufgabenstellung frühzeitig beendet haben, haben wir uns dazu entschieden das Desktop Layout zusätzlich zu machen. Aufgrund von Krankenstand der Gruppe konnten wir die Desktopansicht aber nicht beenden und haben deshalb "nur" Mobile Präsentiert. Der vollständigkeit zu liebe habe ich das Projekt so gelassen und es wie es war und es auf GitHub hochgeladen, wie wir es Präsentiert haben. Im nachhinein wurde nichts verändert, gelöscht oder angepasst.
+<br>Da wir die Aufgabenstellung frühzeitig beendet haben, haben wir uns dazu entschieden das Desktop Layout zusätzlich zu machen. Aufgrund von Krankenstand der Gruppe konnten wir die Desktopansicht aber nicht beenden und haben deshalb "nur" Mobile Präsentiert. Der Vollständigkeit zur Liebe habe ich das Projekt so gelassen und es wie es war und es auf GitHub hochgeladen, wie wir es Präsentiert haben. Im nachhinein wurde nichts verändert, gelöscht oder angepasst.
  
 # 👨‍💻 Gruppenmitglieder & Aufgabenverteilung
 - <b>Ronny Rosenau</b>
@@ -25,10 +25,16 @@ Design der Webseite & Mobile Layout
 - `MySQL`<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 # ✨ Features
-- **Hauptmenü:**
-- **Anzeige:**
-- **Bearbeiten:**
-- **Löschen:**
+- **Menü-Buttons:** Der Titel unserer Webseite "Geräte-Inventur" dient als Link zu der Startseite, um schnell zum Anfang zu navigieren. Darunter sind 3 Buttons die uns in die jeweiligen bereiche weiterleiten.<br>
+
+    Button 1 "Anzeigen" bringt uns in die Maske wo alle Einträge nach Kategorien sortiert sind.<br>
+    Button 2 "Erfassen" öffnet die Maske um neue Geräte hinzuzufügen. Die Inventar-Nr wird automatisch erzeugt.
+    Button 3 "Suchen" zeigt die Maske mit der erweiterten Suchfunktion.
+
+- **Startseite:** Die Startseite ermöglicht es per Schnellsuche das Inventar zu durchsuchen und zeigt eine kleine Projektbeschreibung an.
+- **Anzeige:** Diese Maske zeigt eine Liste aller eingetragenen Positionen nach Kategorie sortiert an. Wenn man einen Eintrag per klick auf den Radio-Button oder auf den Hersteller/Modell auswählt, kann man diesen mithilfe der Buttons löschen, bearbeiten oder die Details anzeigen lassen. Diese Optionen öffnen jeweils eine neue Maske die zu der Option passt. Sollte das Prüfdatum überschritten sein wird dieser Eintrag mit roter Textfarbe angezeigt um die Aufmerksamkeit des Benutzers darauf zu lenken - wenn man dann in der Detailmaske ist wird der Text gelb angezeigt um erneut zu Signalisieren dass, das Gerät geprüft werden muss.
+- **Bearbeiten:** In der Bearbeitenmaske werden alle Daten die bearbeitet werden können aufgelistet und per betätigung der aktualisieren Taste werden die Daten in die Datenbank weitergeleitet. Die Datumsfelder kann man entweder per Tastatur eingabe oder per auswahl über den zur Verfügung gestellten kalender befüllen
+- **Löschen:** In der Maske um Datensätze zu löschen werden wieder alle zur verfügung stehenden Daten angezeigt. Die automatisch generierte Inventar-Nr wird zur eindeutigen identifizierung ebenfalls angezeigt. Nach betätigung der Löschen taste wird der Datensatz direkt gelöscht und eine info, dass der Datensatz gelöscht wurde wird angezeigt.
 - **Suchen:**
 
 # 🔄 Ablauf
