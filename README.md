@@ -35,7 +35,7 @@ Design der Webseite & Mobile Layout
 - **Anzeige:** Diese Maske zeigt eine Liste aller eingetragenen Positionen nach Kategorie sortiert an. Wenn man einen Eintrag per klick auf den Radio-Button oder auf den Hersteller/Modell auswählt, kann man diesen mithilfe der Buttons löschen, bearbeiten oder die Details anzeigen lassen. Diese Optionen öffnen jeweils eine neue Maske die zu der Option passt. Sollte das Prüfdatum überschritten sein wird dieser Eintrag mit roter Textfarbe angezeigt um die Aufmerksamkeit des Benutzers darauf zu lenken - wenn man dann in der Detailmaske ist wird der Text gelb angezeigt um erneut zu Signalisieren dass, das Gerät geprüft werden muss.
 - **Bearbeiten:** In der Bearbeitenmaske werden alle Daten die bearbeitet werden können aufgelistet und per betätigung der aktualisieren Taste werden die Daten in die Datenbank weitergeleitet. Die Datumsfelder kann man entweder per Tastatur eingabe oder per auswahl über den zur Verfügung gestellten kalender befüllen
 - **Löschen:** In der Maske um Datensätze zu löschen werden wieder alle zur verfügung stehenden Daten angezeigt. Die automatisch generierte Inventar-Nr wird zur eindeutigen identifizierung ebenfalls angezeigt. Nach betätigung der Löschen taste wird der Datensatz direkt gelöscht und eine info, dass der Datensatz gelöscht wurde wird angezeigt.
-- **Suchen:**
+- **Suchen:** Die Suchen Maske ermöglicht es die Suche zu konkretisieren und speziell nach etwas in einer Kategorie zu suchen.
 
 # 🔄 Ablauf
 ### **Info:**<br> 
