@@ -27,7 +27,7 @@ Design der Webseite & Mobile Layout
 # ✨ Features
 - **Menü-Buttons:** Der Titel unserer Webseite "Geräte-Inventur" dient als Link zur Startseite, um schnell zum Anfang zu navigieren. Darunter befinden sich 3 Buttons, die uns in die jeweiligen Bereiche weiterleiten:
 
-    <br>Button 1 "Anzeigen" führt uns zur Maske, in der alle Einträge nach Kategorien sortiert angezeigt werden.<br>
+    Button 1 "Anzeigen" führt uns zur Maske, in der alle Einträge nach Kategorien sortiert angezeigt werden.<br>
     Button 2 "Erfassen" öffnet sich die Maske zum Hinzufügen neuer Geräte, wobei die Inventar-Nr. automatisch generiert wird.<br>
     Button 3 "Suchen" zeigt die Maske mit der erweiterten Suchfunktion.
 
