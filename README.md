@@ -1,13 +1,13 @@
 # 📁 Projekt "Inventarisierung"
-### Status: ✔ abgeschlossen 
- 
-<br>Dieses Projekt diente dazu uns an das Thema Projektmanagement heranzuführen, die Gruppendynamik und Problemlösung zu stärken sowie ein Verständnis dafür aufzubauen wie man die 4 Technologien kombinieren kann.
+### Status: ✔ abgeschlossen
+Dieses Projekt diente dazu, uns mit dem Thema Projektmanagement vertraut zu machen, die Gruppendynamik zu stärken und Problemlösungsfähigkeiten zu entwickeln. Außerdem sollten wir ein Verständnis dafür aufbauen, wie man verschiedene Technologien kombinieren kann.
 
-<br>Da wir die Aufgabenstellung frühzeitig beendet haben, haben wir uns dazu entschieden das Desktop Layout zusätzlich zu machen. Aufgrund von Krankenstand der Gruppe konnten wir die Desktopansicht aber nicht beenden und haben deshalb "nur" Mobile Präsentiert. Der Vollständigkeit zur Liebe habe ich das Projekt so gelassen und es wie es war und es auf GitHub hochgeladen, wie wir es Präsentiert haben. Im nachhinein wurde nichts verändert, gelöscht oder angepasst.
- 
+Da wir die Aufgabenstellung frühzeitig abgeschlossen haben, entschieden wir uns dafür, zusätzlich das Desktop-Layout zu erstellen. Aufgrund von Ausfällen innerhalb der Gruppe konnten wir das Desktop-Layout jedoch nicht fertigstellen und präsentierten daher "nur" die mobile Version. 
+Aus Gründen der Vollständigkeit habe ich das Projekt so belassen, wie es war, und es auf GitHub hochgeladen, wie wir es präsentiert haben. Es wurden im Nachhinein keine Änderungen vorgenommen, gelöscht oder angepasst.
+
 # 👨‍💻 Gruppenmitglieder & Aufgabenverteilung
 - <b>Ronny Rosenau</b>
-Mockup und Präsi
+Mockup & Präsentation
 - [Nico Zapke](https://github.com/nzapke)
 Desktop & Mobile Layout
 - [Olaf Schüttke](https://github.com/S2pid030)
@@ -25,49 +25,54 @@ Design der Webseite & Mobile Layout
 - `MySQL`<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
 # ✨ Features
-- **Menü-Buttons:** Der Titel unserer Webseite "Geräte-Inventur" dient als Link zu der Startseite, um schnell zum Anfang zu navigieren. Darunter sind 3 Buttons die uns in die jeweiligen bereiche weiterleiten.<br>
+- **Menü-Buttons:** Der Titel unserer Webseite "Geräte-Inventur" dient als Link zur Startseite, um schnell zum Anfang zu navigieren. Darunter befinden sich 3 Buttons, die uns in die jeweiligen Bereiche weiterleiten:
 
-    Button 1 "Anzeigen" bringt uns in die Maske wo alle Einträge nach Kategorien sortiert sind.<br>
-    Button 2 "Erfassen" öffnet die Maske um neue Geräte hinzuzufügen. Die Inventar-Nr wird automatisch erzeugt.
+    <br>Button 1 "Anzeigen" führt uns zur Maske, in der alle Einträge nach Kategorien sortiert angezeigt werden.<br>
+    Button 2 "Erfassen" öffnet sich die Maske zum Hinzufügen neuer Geräte, wobei die Inventar-Nr. automatisch generiert wird.<br>
     Button 3 "Suchen" zeigt die Maske mit der erweiterten Suchfunktion.
 
-- **Startseite:** Die Startseite ermöglicht es per Schnellsuche das Inventar zu durchsuchen und zeigt eine kleine Projektbeschreibung an.
-- **Anzeige:** Diese Maske zeigt eine Liste aller eingetragenen Positionen nach Kategorie sortiert an. Wenn man einen Eintrag per klick auf den Radio-Button oder auf den Hersteller/Modell auswählt, kann man diesen mithilfe der Buttons löschen, bearbeiten oder die Details anzeigen lassen. Diese Optionen öffnen jeweils eine neue Maske die zu der Option passt. Sollte das Prüfdatum überschritten sein wird dieser Eintrag mit roter Textfarbe angezeigt um die Aufmerksamkeit des Benutzers darauf zu lenken - wenn man dann in der Detailmaske ist wird der Text gelb angezeigt um erneut zu Signalisieren dass, das Gerät geprüft werden muss.
-- **Bearbeiten:** In der Bearbeitenmaske werden alle Daten die bearbeitet werden können aufgelistet und per betätigung der aktualisieren Taste werden die Daten in die Datenbank weitergeleitet. Die Datumsfelder kann man entweder per Tastatur eingabe oder per auswahl über den zur Verfügung gestellten kalender befüllen
-- **Löschen:** In der Maske um Datensätze zu löschen werden wieder alle zur verfügung stehenden Daten angezeigt. Die automatisch generierte Inventar-Nr wird zur eindeutigen identifizierung ebenfalls angezeigt. Nach betätigung der Löschen taste wird der Datensatz direkt gelöscht und eine info, dass der Datensatz gelöscht wurde wird angezeigt.
-- **Suchen:** Die Suchen Maske ermöglicht es die Suche zu konkretisieren und speziell nach etwas in einer Kategorie zu suchen.
+
+- **Startseite:** Die Startseite ermöglicht eine Schnellsuche im Inventar und zeigt eine kurze Projektbeschreibung an.
+
+
+- **Anzeige:** Diese Maske präsentiert eine Liste aller eingetragenen Positionen nach Kategorien sortiert. Durch Klicken auf den Radio-Button oder den Hersteller/Modell eines Eintrags kann dieser gelöscht, bearbeitet oder im Detail angezeigt werden. 
+               Überschrittene Prüfdaten werden rot hervorgehoben, um die Aufmerksamkeit des Benutzers darauf zu lenken; in der Detailmaske wird der Text dann gelb angezeigt, um zu signalisieren, dass das Gerät erneut geprüft werden muss.
+
+
+- **Bearbeiten:** In dieser Maske werden alle bearbeitbaren Daten aufgelistet, und durch Betätigung der Aktualisierungstaste werden die Daten in die Datenbank übertragen. Die Datumsfelder können entweder manuell oder über einen bereitgestellten Kalender ausgefüllt werden.
+
+
+- **Löschen:** In der Maske zum Löschen von Datensätzen werden alle verfügbaren Daten angezeigt, einschließlich der automatisch generierten Inventar-Nr. Nach Betätigung der Löschen-Taste wird der Datensatz sofort gelöscht, und es wird eine Bestätigungsmeldung angezeigt.
+
+
+- **Suchen:** Die Suchmaske ermöglicht eine spezifische Suche in einer bestimmten Kategorie.
 
 # 🔄 Ablauf
 ### **Info:**<br> 
-Den genauen Ablauf wann wir was in welcher Reihenfolge erstellt haben kürze ich bzw. lasse ich ganz weg, da der Text jetzt schon enorme Ausmaße angenommen hat.
+Genauere Details zum Ablauf habe ich gekürzt oder weggelassen, da der Text bereits umfangreich ist.
 
 ### **Projekteinführung:**<br>
-Zu beginn hat unser Dozent uns Interaktiv eine Einleitung in das Thema Projektmanagement gegeben.
-Als erstes wurde das Lastenheft durchgesprochen. Nachdem wir vermittelt bekommen haben was das Lastenheft ist und wozu es dient hat der "Kunde", unser Dozent, sein Lastenheft vorgestellt.
-Daraufhin haben wir das Pflichtenheft erklärt bekommen und diesen gemeinsam mit dem "Kunden" erstellt.
-Nachdem alles nötige bereitstand und die Konkrete Aufgabe für unser Projekt verteilt wurde, hat unser Dozent uns das Wasserfallmodell noch erklärt.
-Die Gruppen haben sich gefunden und das Projekt wurde eröffnet.
+Unser Dozent führte uns interaktiv in das Thema Projektmanagement ein. Wir besprachen das Lastenheft und erstellten gemeinsam mit dem Dozenten das Pflichtenheft. Nachdem die Aufgabe für unser Projekt verteilt wurde, erklärte uns unser Dozent das Wasserfallmodell, und wir begannen mit dem Projekt.
 
 ### **Durchführung:**<br>
-Wir, die "NiRo_MOBS" (NIco-ROnny_Murat-Olaf-Bakici-Schüttke) Gruppe, hat sich zusammengesetzt, sich für die Mobileansicht entschieden und den groben Ablauf besprochen. Unser vorläufiges Mockup wurde erstellt und die Aufgaben verteilt.
-Olaf hat sich direkt mit dem Aufbau der Website beschäftigt während wir noch über das Layout und Mockup gesprochen haben.
-Nach ca. 20 Min war Olaf grob mit dem ersten Abschnitt fertig, sodass Nico und ich mit der Mobilenansicht anfangen konnten. Ronny hat die Skizze und unsere Ideen mithilfe von PowerPoint veredelt.
+Unsere Gruppe, die "NiRo_MOBS" (NIco-ROnny_Murat-Olaf-Bakici-Schüttke), setzte sich zusammen und entschied sich für die mobile Ansicht. 
+Nachdem wir ein vorläufiges Mockup erstellt und die Aufgaben verteilt hatten, begann Olaf sofort mit dem Website-Aufbau, während wir noch über Layout und Mockup sprachen. 
+Nach etwa 20 Minuten, als Olaf den ersten Abschnitt grob fertiggestellt hatte, konnten Nico und ich mit der mobilen Ansicht beginnen. Währenddessen verfeinerte Ronny unsere Ideen mithilfe von PowerPoint.
 
-Da wir mit Kopien auf verschiedenen PCs gearbeitet haben war das zusammenführen und speichern praktisch unmöglich. Olaf hat inzwischen mit dem Inhalt weitergemacht während ich im selben Bereich etwas verändert habe und Nico auf dem Original aufgebaut hat.
-Dieses Chaos zu bereinigen hat uns die restliche Zeit für diesen Tag gekostet. Nachdem wieder Ordnung herrschte haben wir eine kleine Brainstorming-Runde eingelegt damit dieses Problem im Zukunft nicht wiederauftritt. Die ein oder andere gute Idee kam dabei raus bis Olaf einen Geistesblitz hatte und uns die Idee unterbreitet hat einen über das Netzwerk geteilten Ordner bereitzustellen, was auch solange man in unterschiedlichen Dateinen gearbeitet hat super funktioniert hat. Bei lediglich 2 Dateien (index.html & stylesheet.css) war das aber leider nicht der Fall bis mir eingefallen ist, dass man die CSS-Dateien aufteilen kann. Gesagt getan, das Problem ist aus der Welt solange Olaf, Nico und ich abgesprochen haben wer wann in welcher Datei arbeitet.
+Da wir zunächst mit Kopien auf verschiedenen PCs gearbeitet haben, war das Zusammenführen und Speichern praktisch unmöglich. Während Olaf inzwischen mit dem Inhalt weitermachte, veränderte ich im selben Bereich etwas und Nico baute auf dem Original auf. 
+Das Bereinigen dieses Chaos kostete uns die restliche Zeit für diesen Tag. Nachdem wieder Ordnung herrschte, legten wir eine kleine Brainstorming-Runde ein, um sicherzustellen, dass dieses Problem in Zukunft nicht wieder auftritt. 
+Dabei kamen einige gute Ideen zum Vorschein, bis Olaf einen Geistesblitz hatte und uns die Idee unterbreitete, einen über das Netzwerk geteilten Ordner bereitzustellen, was auch dann, wenn wir in unterschiedlichen Dateien arbeiteten, super funktionierte. 
+Bei lediglich zwei Dateien (index.html & stylesheet.css) war das jedoch leider nicht der Fall, bis mir einfiel, dass man die CSS-Dateien aufteilen kann. Gesagt, getan - das Problem war gelöst, solange Olaf, Nico und ich abgesprochen hatten, wer wann in welcher Datei arbeitet.
+Nachdem wir das Problem gelöst hatten, konnten wir unsere Aufgaben schnell erledigen.
 
-Ohne die Speicherkonflikte konnten wir richtig Gasgeben und unsere To-Do Liste in kürzester Zeit abarbeiten. 
+Nach einiger Zeit hat Ronny uns verlassen, da er aus privaten Gründen die Ausbildung abgebrochen hat. Leider bin ich zwischendurch 2 Blöcke aus Krankheitsgründen ausgefallen und Nico hatte zu Beginn andere wichtige schulische Termine in unseren Programmierblöcken und musste sich etwas zurückziehen.
+Dennoch haben wir nach etwa zwei Dritteln der Zeit alle Projektaufgaben, einschließlich der Zusatzaufgabe "Suchfeld", erledigt. Olaf begann damit, ein Logo zu erstellen, während ich mich um den letzten Feinschliff für die Mobilansicht kümmerte und Nico mit der Desktopansicht begonnen hatte. 
+Jedoch konnte die Desktopansicht vor der Abgabe nicht abgeschlossen werden.
 
-Nach einiger Zeit hat Ronny uns verlassen, da er aus privaten Gründen die Ausbildung abgebrochen hat. Leider bin ich zwischendurch 2 Blöcke aus Krankheitsgründen ausgefallen und Nico hatte zu beginn andere wichtige schulische Termine in unseren Programmierblöcken und musste sich etwas zurück ziehen.
-
-Wir haben nach ca. 2/3 der Zeit alle Projektaufgaben inkl. der Zusatzaufgabe "Suchfeld" erfüllt und haben damit begonnen die Desktopansicht und ein Logo zu erstellen. Ich habe mich um den letzten feinschliff für die Mobileansicht gekümmert, Olaf hat unser Logo erstellt und Nico hat mit der Desktopansicht angefangen die leider vor abgabe nicht fertig war.
-
-Die Präsentation von Olaf und mir lief reibungslos und wir haben die volle Punktzahl erhalten.
+Unsere Präsentation, an der Olaf und ich beteiligt waren, verlief reibungslos und wurde mit der vollen Punktzahl bewertet.
 
 ### **Design & Farbe:**<br>
-Ich habe mich für ein schlichtes Design entschieden da zu bunt oder animiert die Benutzer ablenken könnte bzw. wenn man den ganzen Tag damit arbeiten würde einfach zu viel Energie verschwenden und die Aufmerksamkeit darunter leiden könnte.
-Die graue Hintergrundfarbe ist optimal um die Augen bei langen Sitzungen nicht zusätzlich zu belasten, die rote bzw. gelbe Textfarbe, die in bestimmten Situationen angezeigt wird soll darauf hinweisen, dass erhöhte Aufmerksamkeit gefordert ist.
-
+Ich entschied mich für ein schlichtes Design, um die Benutzer nicht abzulenken und die Augen bei langen Sitzungen nicht zu belasten. Die graue Hintergrundfarbe trägt dazu bei, die Augen zu schonen, während roter und gelber Text in bestimmten Situationen auf erhöhte Aufmerksamkeit hinweist.
 
 # 📚 Was ich dazugelernt habe
 - Wie kompliziert es ist mit mehreren Personen (ohne ein Versionierungssystem wie Git) zusammenzuarbeiten ohne Speicherkonflikte auszulösen.
@@ -76,6 +81,6 @@ Die graue Hintergrundfarbe ist optimal um die Augen bei langen Sitzungen nicht z
 # 💡 Verbesserungsideen
 - Bessere Kommentare schreiben.
 - Wiederholung zu reduzieren bzw. wenn möglich zu vermeiden.
-- Die Desktopansicht fertigstellen und sicher gehen, dass die Webseite auch in verschiedenen größen wie Mobile, Tablett, Desktop usw. aber auch im Portrait- und Landscapemodus gut angezeigt wird.
+- Die Desktopansicht fertigstellen und sicher gehen, dass die Webseite auch in verschiedenen größen wie Mobile, Tablett, Desktop usw. aber auch im Portrait- und Landscape-Modus gut angezeigt wird.
 - Die Webseite mit einem Login "sichern" und es ermöglichen, dass verschiedene Benutzer darin arbeiten können.
-- Rechte hinzufügen wie z.B. Vollzugriff / Ansicht & Suche ohne Rechte zum anlegen oder bearbeiten.
+- Rechte hinzufügen wie z.B. Vollzugriff / Ansicht & Suche ohne Rechte zum Anlegen oder Bearbeiten.
